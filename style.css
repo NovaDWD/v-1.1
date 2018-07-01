@@ -10,7 +10,7 @@ body{
 
 .landingpage{
   height: 640px;
-  min-width: 360px;
+  width: 360px;
   background-color: #85D9DF;
   position: relative;
   opacity: 30%;
